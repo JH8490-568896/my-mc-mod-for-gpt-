@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {"type": "minecraft:item", "name": "endupdate:void_pearl"}
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {"type": "minecraft:item", "name": "endupdate:ancient_core"}
+      ]
+    }
+  ]
+}
