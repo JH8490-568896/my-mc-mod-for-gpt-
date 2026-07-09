@@ -1,0 +1,20 @@
+{
+  "temperature": 0.7,
+  "downfall": 0.0,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 6117375,
+    "water_color": 6384639,
+    "water_fog_color": 1516337,
+    "fog_color": 7282175,
+    "grass_color": 8224255,
+    "foliage_color": 7282175
+  },
+  "spawners": {
+    "monster": [{"type": "endupdate:shardling", "weight": 8, "minCount": 1, "maxCount": 3}]
+  },
+  "spawn_costs": {},
+  "carvers": {"air": [], "liquid": []},
+  "features": [[], [], [], [], [], [], [], [], [], []],
+  "creature_spawn_probability": 0.0
+}
