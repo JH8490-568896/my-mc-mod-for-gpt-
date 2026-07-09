@@ -1,0 +1,20 @@
+{
+  "temperature": 0.4,
+  "downfall": 0.0,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 2760055,
+    "water_color": 5329063,
+    "water_fog_color": 657426,
+    "fog_color": 2170437,
+    "grass_color": 5329063,
+    "foliage_color": 5329063
+  },
+  "spawners": {
+    "monster": [{"type": "endupdate:watcher", "weight": 4, "minCount": 1, "maxCount": 1}]
+  },
+  "spawn_costs": {},
+  "carvers": {"air": [], "liquid": []},
+  "features": [[], [], [], [], [], [], [], [], [], []],
+  "creature_spawn_probability": 0.0
+}
