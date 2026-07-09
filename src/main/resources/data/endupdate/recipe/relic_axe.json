@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["RR ", "RS ", " S "],
+  "key": {
+    "R": {"item": "endupdate:end_relic"},
+    "S": {"item": "minecraft:stick"}
+  },
+  "result": {"id": "endupdate:relic_axe", "count": 1}
+}
