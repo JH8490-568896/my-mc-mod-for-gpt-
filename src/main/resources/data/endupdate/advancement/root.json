@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {"item": "endupdate:end_fragment"},
+    "title": {"text": "The End, Rewritten"},
+    "description": {"text": "Discover the first relics of the End."},
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_end_stone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{"items": ["minecraft:end_stone"]}]
+      }
+    }
+  }
+}
