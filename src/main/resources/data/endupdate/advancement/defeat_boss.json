@@ -1,0 +1,20 @@
+{
+  "parent": "endupdate:craft_relic",
+  "display": {
+    "icon": {"item": "endupdate:boss_sigil"},
+    "title": {"text": "Heart of the End"},
+    "description": {"text": "Defeat the Ender Heart."},
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "have_sigil": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{"items": ["endupdate:boss_sigil"]}]
+      }
+    }
+  }
+}
