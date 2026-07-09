@@ -10,7 +10,6 @@
     "sources": "https://github.com/"
   },
   "license": "MIT",
-  "icon": "assets/endupdate/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": ["com.enderveil.endupdate.EndUpdateMod"],
