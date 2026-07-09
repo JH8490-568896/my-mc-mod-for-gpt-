@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["R R", "R R"],
+  "key": {
+    "R": {"item": "endupdate:end_relic"}
+  },
+  "result": {"id": "endupdate:relic_boots", "count": 1}
+}
