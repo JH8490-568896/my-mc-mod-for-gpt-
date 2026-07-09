@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["R R", "RRR", "RRR"],
+  "key": {
+    "R": {"item": "endupdate:end_relic"}
+  },
+  "result": {"id": "endupdate:relic_chestplate", "count": 1}
+}
