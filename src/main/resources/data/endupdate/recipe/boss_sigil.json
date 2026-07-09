@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" R ", "CAC", " V "],
+  "key": {
+    "R": {"item": "endupdate:end_relic"},
+    "C": {"item": "endupdate:chorus_resin"},
+    "A": {"item": "endupdate:ancient_core"},
+    "V": {"item": "endupdate:void_pearl"}
+  },
+  "result": {"id": "endupdate:boss_sigil", "count": 1}
+}
