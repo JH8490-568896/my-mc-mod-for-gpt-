@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "endupdate",
+  "version": "${version}",
+  "name": "End Update",
+  "description": "A massive End expansion that adds new progression, mobs, blocks, structures, and boss content.",
+  "authors": ["OpenAI"],
+  "contact": {
+    "homepage": "https://github.com/",
+    "sources": "https://github.com/"
+  },
+  "license": "MIT",
+  "icon": "assets/endupdate/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.enderveil.endupdate.EndUpdateMod"],
+    "client": ["com.enderveil.endupdate.EndUpdateClient"]
+  },
+  "depends": {
+    "minecraft": "${minecraft_version}",
+    "java": ">=21",
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*"
+  }
+}
