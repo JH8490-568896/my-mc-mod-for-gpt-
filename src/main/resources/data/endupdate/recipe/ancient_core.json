@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["FEF", "ERE", "FEF"],
+  "key": {
+    "F": {"item": "endupdate:end_fragment"},
+    "E": {"item": "endupdate:void_pearl"},
+    "R": {"item": "minecraft:ender_eye"}
+  },
+  "result": {"id": "endupdate:ancient_core", "count": 1}
+}
