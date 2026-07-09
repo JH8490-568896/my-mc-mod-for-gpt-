@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["FFF", "FCF", "FFF"],
+  "key": {
+    "F": {"item": "endupdate:end_fragment"},
+    "C": {"item": "endupdate:ancient_core"}
+  },
+  "result": {"id": "endupdate:end_relic", "count": 1}
+}
