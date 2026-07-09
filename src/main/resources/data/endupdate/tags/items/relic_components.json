@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "endupdate:end_fragment",
+    "endupdate:end_relic",
+    "endupdate:ancient_core",
+    "endupdate:boss_sigil"
+  ]
+}
