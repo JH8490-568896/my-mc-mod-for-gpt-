@@ -1,0 +1,20 @@
+{
+  "parent": "endupdate:root",
+  "display": {
+    "icon": {"item": "endupdate:end_relic"},
+    "title": {"text": "Reforged Relic"},
+    "description": {"text": "Combine fragments into a relic worthy of the End."},
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "have_relic": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{"items": ["endupdate:end_relic"]}]
+      }
+    }
+  }
+}
