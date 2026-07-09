@@ -20,6 +20,20 @@ A Fabric expansion mod for Minecraft Java Edition 1.21.11 that turns The End int
 - Recipes, loot tables, tags, advancements, and client/server entrypoints
 - GitHub Actions CI that builds the JAR
 
+## Missing sections to finish
+
+### 1. Client rendering and visual setup
+
+The repo still needs the client-side registration layer for entity renderers, model layers, particle factories, and any boss or mob visual wiring.
+
+### 2. Full data pack coverage
+
+The repo still needs the remaining blockstates, block and item models, textures, loot tables, tags, recipes, and advancement branches for every new block and item.
+
+### 3. Worldgen and structure content
+
+The repo still needs the full biome and structure data set: configured and placed features, structure pools, biome integration, and the terrain/resource generation balance.
+
 ## Build
 
 ```bash
